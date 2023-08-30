@@ -35,7 +35,8 @@ The "weights" folder contains the best weights obtained during our research trai
 This study received support from the Higher Education Personnel Improvement Coordination (CAPES).
 
 ### Citation
-If you use something from this repository, please cite us as: 
+If you use something from this repository, please cite us as: KONELL, H. G. Assesment of U-Net in Short Tracts Segmentation using Clinical Data. 2023. Dissertation (M. Sc. In Physics Applied to Medicine and Biology) – School of Philosophy, Scienced, and Letters of Ribeirão Preto, University of São Paulo, Ribeirão Preto – SP, 2023.
+
 Also, as the public dataset was used through HCP, remember to check the policy of them. 
 
 ### References 
