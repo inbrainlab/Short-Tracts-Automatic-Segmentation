@@ -28,14 +28,15 @@ The "weights" folder contains the best weights obtained during our research trai
 
 ## Authors, References, Citation and Funding
 ### Authors and Laboratory
-- Hohana Gabriela Konell (hohana.konell@usp.br)
+- Hohana Gabriela Konell (hohana.konell@alumni.usp.br)
 - Inbrain Lab (inbrain@usp.br)
 
 ### Funding
 This study received support from the Higher Education Personnel Improvement Coordination (CAPES).
 
 ### Citation
-If you use something from this repository, please cite us as: KONELL, H. G. Assesment of U-Net in Short Tracts Segmentation using Clinical Data. 2023. Dissertation (M. Sc. In Physics Applied to Medicine and Biology) – School of Philosophy, Scienced, and Letters of Ribeirão Preto, University of São Paulo, Ribeirão Preto – SP, 2023.
+If you use something from this repository, please cite us as: 
+Konell HG, Junior LOM, Dos Santos AC, Salmon CEG. Assessment of U-Net in the segmentation of short tracts: Transferring to clinical MRI routine. Magn Reson Imaging. 2024 Sep;111:217-228. doi: 10.1016/j.mri.2024.05.009. Epub 2024 May 14. PMID: 38754751.
 
 Also, as the public dataset was used through HCP, remember to check the policy of them. 
 
