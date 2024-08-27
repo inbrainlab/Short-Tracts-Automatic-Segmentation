@@ -18,7 +18,7 @@ Data preprocessing was carried out using MRtrix3 software. The preprocessing pip
 
 ## Code  
 The code was developed using Google Colaboratory to enhance readability. The code is organized into four main sections:
-1. **Import Libraries:** This section imports the necessary packages for code development and function usage.
+1. **Import Libraries:** This section imports the necessary packages for code development and function usage. We used Tensorflow/Keras to construct our model. 
 2. **Functions:** Here, you'll find functions tailored to prepare the data for training the U-Net network.
 3. **Training:** This section outlines the workflow for calling functions and conducting the training process.
 4. **Test and Dice Scores:** Learn how to make predictions using the trained network and calculate Dice scores from the resulting predictions.
