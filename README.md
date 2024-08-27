@@ -38,6 +38,9 @@ This study received support from the Higher Education Personnel Improvement Coor
 If you use something from this repository, please cite us as: 
 Konell HG, Junior LOM, Dos Santos AC, Salmon CEG. Assessment of U-Net in the segmentation of short tracts: Transferring to clinical MRI routine. Magn Reson Imaging. 2024 Sep;111:217-228. doi: 10.1016/j.mri.2024.05.009. Epub 2024 May 14. PMID: 38754751.
 
+###Collaboration
+We are open to collaborations!! Let's share data and enrich our work!
+
 Also, as the public dataset was used through HCP, remember to check the policy of them. 
 
 ### References 
