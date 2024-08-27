@@ -41,7 +41,9 @@ Konell HG, Junior LOM, Dos Santos AC, Salmon CEG. Assessment of U-Net in the seg
 ### Collaboration
 We are open to collaborations!! Let's share data and enrich our work!
 
-Also, as the public dataset was used through HCP, remember to check the policy of them. 
+### Notes
+As the public dataset was used through HCP, remember to check the policy of them. 
+https://www.humanconnectome.org/
 
 ### References 
 - Wasserthal, J., Neher, P. & Maier-Hein, K. H. TractSeg - Fast and accurate white matter tract segmentation. Neuroimage 183, 239–253 (2018).
